@@ -50,10 +50,12 @@ public class all {
                 Dimension d = super.getSize();
                 Dimension size = null;
                 Component comp = getParent();
-                if (comp == null) { size = new Dimension((int)d.getWidth(),(int)d.getHeight());
-                } else if (comp!=null && comp.getWidth()>d.getWidth() && comp.getHeight()>d.getHeight()) 
+                if (comp == null) { 
+                    size = new Dimension((int)d.getWidth(),(int)d.getHeight());
+                } else if 
+                    (comp!=null && comp.getWidth()>d.getWidth() && comp.getHeight()>d.getHeight()) 
                 { 
-                	size = comp.getSize();
+                    size = comp.getSize();
                 } else {
                 	size = d;
                 }
@@ -107,7 +109,7 @@ public class all {
             for (int j = 0; j < 8; j++) {
                 switch (j) {
                     case 0:
-                        chessBoard.add(new JLabel("" + (9-(i + 1)),
+                        chessBoard.add(new JLabel("" + (i+1+(0)),
                                 SwingConstants.CENTER));
                     //orients the layout of pieces
                     default:
