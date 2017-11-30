@@ -1,5 +1,6 @@
 # chess
 Welcome to Chess!
+
 For starters: Install a Java compatible IDE
 - Download and run java code
 
