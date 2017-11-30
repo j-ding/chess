@@ -6,7 +6,7 @@ For starters: Install a Java compatible IDE
 
 Have you played chess before?
 
--Friendly beginner guide: http://www.chessfornovices.com/
+- Friendly beginner guide: http://www.chessfornovices.com/
 
 START
 =====
