@@ -2,7 +2,7 @@
 Welcome to Chess!
 
 For starters: Install a Java compatible IDE
-- Download and run java code
+- Download and run java code (all.java)
 
 Have you played chess beofre?
 friendly beginner guide: http://www.chessfornovices.com/
