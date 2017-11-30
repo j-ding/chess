@@ -1,4 +1,4 @@
-# chess
+# CHESS
 Welcome to Chess!
 
 For starters: Install a Java compatible IDE
